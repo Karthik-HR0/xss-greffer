@@ -1,12 +1,12 @@
 
-
 <div align="center">
-   <a href="https://github.com/Karthik-HR0/xss-greffer"><img src="https://sdmntprnortheu.oaiusercontent.com/files/00000000-98d8-61f4-a0c9-349dba1f95f6/raw?se=2025-09-02T09%3A42%3A04Z&sp=r&sv=2024-08-04&sr=b&scid=234af591-5f95-53ef-9ad1-ba1513d68345&skoid=0b778285-7b0b-4cdc-ac3b-fb93e8c3686f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-01T16%3A20%3A37Z&ske=2025-09-02T16%3A20%3A37Z&sks=b&skv=2024-08-04&sig=M3jL8vmThmPheuhNAQkYRzbm1njj1xJ/96SDc5LAIBE%3D" hight="225" width="450" align="center"/></a>
+  <a href="https://github.com/Karthik-HR0/xss-greffer">
+    <img src="https://sdmntprnortheu.oaiusercontent.com/files/00000000-98d8-61f4-a0c9-349dba1f95f6/raw?se=2025-09-02T09%3A42%3A04Z&sp=r&sv=2024-08-04&sr=b&scid=234af591-5f95-53ef-9ad1-ba1513d68345&skoid=0b778285-7b0b-4cdc-ac3b-fb93e8c3686f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-01T16%3A20%3A37Z&ske=2025-09-02T16%3A20%3A37Z&sks=b&skv=2024-08-04&sig=M3jL8vmThmPheuhNAQkYRzbm1njj1xJ/96SDc5LAIBE%3D" height="180" width="360" alt="XSS Greffer Logo"/>
+  </a>
 </div>
 
-<br>
-<br>
-<br>
+<br><br><br>
+
 
 <div align="center">
 
