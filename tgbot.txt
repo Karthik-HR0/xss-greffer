@@ -1,2 +1,1 @@
-token=[123456:ABC-DEF1234ghIkl-xyz]
-id=[123456789]
+
