@@ -1,0 +1,16 @@
+webdriver_manager
+selenium
+aiohttp
+beautifulsoup4
+colorama
+rich
+requests
+gitpython
+prompt_toolkit
+pyyaml
+Flask
+requests==2.32.3
+urllib3==2.2.3
+selenium==4.25.0
+webdriver-manager==4.0.2
+ttkbootstrap==1.10.1
