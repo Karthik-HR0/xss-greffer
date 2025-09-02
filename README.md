@@ -133,15 +133,15 @@ urllib3>=1.26.16
 To enable Telegram notifications, create a `tgbot.txt` file in the project directory with the following format:
 
 ```text
-token=your_bot_token
-id=your_chat_id
+token=[your_bot_token]
+id=[your_chat_id]
 ```
 
 Example:
 
 ```text
-token=123456:ABC-DEF1234ghIkl-xyz
-id=123456789
+token=[123456:ABC-DEF1234ghIkl-xyz]
+id=[123456789]
 ```
 
   
